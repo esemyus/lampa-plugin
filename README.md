@@ -1,0 +1,2 @@
+# lampa-plugin
+trailers
